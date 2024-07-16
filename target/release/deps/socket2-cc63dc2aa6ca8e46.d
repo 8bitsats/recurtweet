@@ -1,0 +1,11 @@
+/Users/ordlibrary/Desktop/bangers/galleria-main/recurtweet/target/release/deps/libsocket2-cc63dc2aa6ca8e46.rmeta: /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.4/src/lib.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.4/src/sockaddr.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.4/src/socket.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.4/src/sockref.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.4/src/sys/unix.rs
+
+/Users/ordlibrary/Desktop/bangers/galleria-main/recurtweet/target/release/deps/libsocket2-cc63dc2aa6ca8e46.rlib: /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.4/src/lib.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.4/src/sockaddr.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.4/src/socket.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.4/src/sockref.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.4/src/sys/unix.rs
+
+/Users/ordlibrary/Desktop/bangers/galleria-main/recurtweet/target/release/deps/socket2-cc63dc2aa6ca8e46.d: /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.4/src/lib.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.4/src/sockaddr.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.4/src/socket.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.4/src/sockref.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.4/src/sys/unix.rs
+
+/Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.4/src/lib.rs:
+/Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.4/src/sockaddr.rs:
+/Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.4/src/socket.rs:
+/Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.4/src/sockref.rs:
+/Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.4/src/sys/unix.rs:
